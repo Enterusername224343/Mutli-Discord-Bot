@@ -99,7 +99,7 @@ export default {
       Global: true,
     },
 
-    Owners: ["219813914035224576"], // bot owner ids
+    Owners: ["1276108947308417027"], // bot owner ids
     Theme: "Blue",
   },
 
